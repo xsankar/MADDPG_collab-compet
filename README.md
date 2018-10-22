@@ -3,7 +3,7 @@
 [image1]: https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif "Trained Agent"
 
 
-# Reinforcement Learning : Multi-Agent DDPG : Collaboration and Competition
+# Reinforcement Learning : Multi-Agent DDPG - Collaboration and Competition
 
 ### Introduction
 
@@ -24,7 +24,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Getting Started
 
-1. Clone this repository. I am running on mac, so the unity runtime environment (Reacher.app) is already in the repository
+1. Clone this repository. I am running on mac, so the unity runtime environment (Tennis.app) is already in the repository
 
 1. If you are running in Linux or windows, download the appropriate environment from one of the links below. You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
